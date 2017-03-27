@@ -8,7 +8,19 @@
 		 "age":13,
 		 "sex":"male"
 		},
-		{"name":"lucy",
+		{"name":"lucy1",
+		 "age":18,
+		 "sex":"female"
+		},
+		{"name":"lucy2",
+		 "age":18,
+		 "sex":"female"
+		},
+		{"name":"lucy3",
+		 "age":18,
+		 "sex":"female"
+		},
+		{"name":"lucy4",
 		 "age":18,
 		 "sex":"female"
 		}		
